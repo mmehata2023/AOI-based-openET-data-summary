@@ -1,0 +1,13 @@
+dashboard_app/
+│
+├── dashboard.py
+│
+├── data/
+│   ├── xxx_annual.parquet
+│   └── xxx_monthly.parquet
+│
+└── utils/
+    ├── advanced_figure_utils.py
+    ├── data_utils.py
+    ├── map_utils.py
+    └── summary_utils.py

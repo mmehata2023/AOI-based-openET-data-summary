@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pyarrow
+folium
+branca
+streamlit-folium
+shapely
+pyproj
+pyshp
